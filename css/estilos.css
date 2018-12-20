@@ -1,0 +1,32 @@
+#Columna{
+  text-align: center;
+}
+#row{
+  background-color: #0B0B61;
+}
+#row_2{
+    background-color: #2E2E2E;
+}
+*{
+padding: 0;
+margin: 0;
+border: 0;
+}
+h1{
+  text-align: center;
+}
+#mar{
+  margin: 20px;
+  background-color: #E6E6E6;
+}
+h3{
+  text-align: center;
+}
+#mar_1{
+  margin: 20px;
+  background-color: #E6E6E6;
+}
+#Columna_2{
+  text-align: center;
+  background-color: #D8D8D8;
+}
